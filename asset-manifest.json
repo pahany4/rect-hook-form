@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rect-hook-form/static/css/main.ef56aa3d.chunk.css",
+    "main.js": "/rect-hook-form/static/js/main.0decf0fc.chunk.js",
+    "main.js.map": "/rect-hook-form/static/js/main.0decf0fc.chunk.js.map",
+    "runtime-main.js": "/rect-hook-form/static/js/runtime-main.77e083f4.js",
+    "runtime-main.js.map": "/rect-hook-form/static/js/runtime-main.77e083f4.js.map",
+    "static/js/2.b46476ab.chunk.js": "/rect-hook-form/static/js/2.b46476ab.chunk.js",
+    "static/js/2.b46476ab.chunk.js.map": "/rect-hook-form/static/js/2.b46476ab.chunk.js.map",
+    "static/js/3.099ae3e8.chunk.js": "/rect-hook-form/static/js/3.099ae3e8.chunk.js",
+    "static/js/3.099ae3e8.chunk.js.map": "/rect-hook-form/static/js/3.099ae3e8.chunk.js.map",
+    "index.html": "/rect-hook-form/index.html",
+    "static/css/main.ef56aa3d.chunk.css.map": "/rect-hook-form/static/css/main.ef56aa3d.chunk.css.map",
+    "static/js/2.b46476ab.chunk.js.LICENSE.txt": "/rect-hook-form/static/js/2.b46476ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77e083f4.js",
+    "static/js/2.b46476ab.chunk.js",
+    "static/css/main.ef56aa3d.chunk.css",
+    "static/js/main.0decf0fc.chunk.js"
+  ]
+}
